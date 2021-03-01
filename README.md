@@ -28,3 +28,6 @@
 * plotly
 * matplotlib
 * sklearn
+* eli5 (for getting the permutation importance)
+* pdpbox (for partial dependence plots)
+* shap (for shapley values)
