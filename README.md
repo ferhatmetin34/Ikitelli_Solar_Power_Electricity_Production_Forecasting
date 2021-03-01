@@ -19,3 +19,12 @@
 | Data URL                  | the data.ibb.gov.tr/dataset/ikitelli-gunes-enerjisi-santrali-elektrik-uretim-miktar                                                                                              |
 | Unit of Data              | kWh / min                                                                                                                                                                        |
 | Warnings / Notes:         | Electricity amounts produced in May, June, August, September, November, December 2018 and February, March, April, May 2019                                                       |
+
+## Libraries
+* wwo-hist (for gettiing the weather data)
+* pandas
+* numpy
+* lightgbm
+* plotly
+* matplotlib
+* sklearn
